@@ -1,8 +1,4 @@
-/*
- * Name: Omar Ahmed Amer Abdulrahim
- * Email: itsomarahmed@gmail.com
- * Phone_num: 01002787452
- */
+
 
 #include <bits/stdc++.h>
 using namespace std;
